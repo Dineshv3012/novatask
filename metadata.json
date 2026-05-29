@@ -1,0 +1,6 @@
+{
+  "name": "NovaTask AI",
+  "description": "A futuristic AI-powered productivity platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
